@@ -35,11 +35,5 @@ I'm Muhammad Kazim, a passionate **React Developer** who crafts interactive UIs 
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kazim-mk2)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkaazim13@gmail.com)
-
----
-
 > 💬 *"Merging clean design with clean data. One commit at a time."*
 
