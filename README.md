@@ -6,7 +6,7 @@ I'm Muhammad Kazim, a passionate **React Developer** who crafts interactive UIs 
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🧰 Tools I Craft With
 
 ### 💻 Frontend & UI
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +18,7 @@ I'm Muhammad Kazim, a passionate **React Developer** who crafts interactive UIs 
 
 ---
 
-### ☁️ Currently Exploring – Cloud Data Engineering
+### ☁️ Leveling Up in Cloud Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -28,7 +28,7 @@ I'm Muhammad Kazim, a passionate **React Developer** who crafts interactive UIs 
 
 ---
 
-## 🌱 Fun Facts About Me  
+## ✨ A Few Things About Me
 - 🧠 Learning how to bridge **frontend experiences** with **data-driven backend systems**  
 - ⚡ Love experimenting with **Framer Motion**, **ShadCN**, and **micro-interactions**  
 - 🎯 I believe in clean UI, smooth UX, and data that works **behind the scenes**  
@@ -36,9 +36,8 @@ I'm Muhammad Kazim, a passionate **React Developer** who crafts interactive UIs 
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-username)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kazim-mk2)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkaazim13@gmail.com)
 
 ---
 
