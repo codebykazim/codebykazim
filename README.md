@@ -2,7 +2,7 @@
 Frontend Developer | React Wizard | Cloud Data Engineer in Training ☁️  
 
 👋 Welcome to My Tech Universe!  
-I'm Muhammad Kazim, a passionate **React Developer** who crafts interactive UIs and responsive web apps with clean, maintainable code. Lately, I’ve been diving into the world of **Cloud Data Engineering**, exploring how data flows, scales, and transforms in real-time systems.  
+I'm Muhammad Kazim, a passionate **Frontend Developer** who crafts interactive UIs and responsive web apps with clean, maintainable code. Lately, I’ve been diving into the world of **Cloud Data Engineering**, exploring how data flows, scales, and transforms in real-time systems.  
 
 ---
 
