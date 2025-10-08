@@ -56,4 +56,4 @@ Currently, I’m leveling up in **DevOps**, learning how to containerize, deploy
 ---
 
 📫 **Let's Connect!**  
-[LinkedIn](https://www.linkedin.com/in/kazim-mk2/) • [Portfolio](https://my-portfolio-dev-10.vercel.app/) • [Email](mkaazim13@email.com)
+[LinkedIn](https://www.linkedin.com/in/kazim-mk2/) • [Portfolio](https://my-portfolio-dev-10.vercel.app/)
