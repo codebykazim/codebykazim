@@ -1,8 +1,10 @@
 # 🚀 Hi! I'm Muhammad Kazim  
-Frontend Developer | React Wizard | Cloud Data Engineer in Training ☁️  
+**MERN Stack Developer | React & Next.js Specialist | Leveling Up in DevOps ⚙️**
 
 👋 Welcome to My Tech Universe!  
-I'm Muhammad Kazim, a passionate **Frontend Developer** who crafts interactive UIs and responsive web apps with clean, maintainable code. Lately, I’ve been diving into the world of **Cloud Data Engineering**, exploring how data flows, scales, and transforms in real-time systems.  
+I'm **Muhammad Kazim**, a passionate **MERN Stack Developer** who crafts responsive, scalable, and interactive web applications.  
+I specialize in **React.js**, **Next.js**, **Node.js**, **Express**, **Nest.js**, and **PostgreSQL**, blending clean frontend design with efficient backend architecture.  
+Currently, I’m leveling up in **DevOps**, learning how to containerize, deploy, and scale applications seamlessly across cloud environments.  
 
 ---
 
@@ -17,25 +19,41 @@ I'm Muhammad Kazim, a passionate **Frontend Developer** who crafts interactive U
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
-### ☁️ Leveling Up in Cloud Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 🐳 Leveling Up in DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-1E90FF?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ## ✨ A Few Things About Me
-- 🧠 Learning how to bridge **frontend experiences** with **data-driven backend systems**  
-- ⚡ Love experimenting with **Framer Motion**, **ShadCN**, and **micro-interactions**  
-- 🎯 I believe in clean UI, smooth UX, and data that works **behind the scenes**  
+- 🧠 Building **MERN + Next.js + Nest.js** applications with clean architecture and optimized performance  
+- ⚡ Exploring **DevOps** — containerization, CI/CD pipelines, and scalable deployments  
+- 💬 I love combining **frontend creativity**, **backend logic**, and **DevOps practices**
 
 ---
 
-> 💬 *"Merging clean design with clean data. One commit at a time."*
+> 💬 *"Code it. Build it. Deploy it. Scale it — one container at a time."*
 
+---
+
+📫 **Let's Connect!**  
+[LinkedIn](https://www.linkedin.com/in/kazim-mk2/) • [Portfolio](https://my-portfolio-dev-10.vercel.app/) • [Email](mkaazim13@email.com)
