@@ -2,7 +2,7 @@
 **MERN Stack Developer | React & Next.js Specialist | Leveling Up in DevOps ⚙️**
 
 👋 Welcome to My Tech Universe!  
-I'm **Muhammad Kazim**, a passionate **MERN Stack Developer** who crafts responsive, scalable, and interactive web applications.  
+I'm **Muhammad Kazim**, a passionate **Developer** who crafts responsive, scalable, and interactive web applications.  
 I specialize in **React.js**, **Next.js**, **Node.js**, **Express**, **Nest.js**, and **PostgreSQL**, blending clean frontend design with efficient backend architecture.  
 Currently, I’m leveling up in **DevOps**, learning how to containerize, deploy, and scale applications seamlessly across cloud environments.  
 
