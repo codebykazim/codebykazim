@@ -39,16 +39,6 @@ A results-driven engineer specializing in AWS cloud infrastructure, containerize
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebykazim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebykazim&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
-</p>
-
----
-
 ## Connect with Me
 
 <p align="left">
