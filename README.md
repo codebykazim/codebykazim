@@ -1,13 +1,13 @@
 # Muhammad Kazim
 **AWS Cloud / DevOps Engineer & Full-Stack Developer**
 
-A results-driven engineer specializing in AWS cloud infrastructure, containerized deployments, Kubernetes orchestration, CI/CD automation, and modern full-stack web development. I focus on building highly scalable, resilient, and automated systems with an AWS-first approach.
+A results-driven engineer specializing in AWS cloud infrastructure, containerized deployments, Kubernetes orchestration, CI/CD automation, and modern full-stack web development. I focus on building highly scalable, resilient, and automated systems.
 
 ---
 
 ## Tech Stack & Tooling
 
-### Cloud & Infrastructure (AWS-First)
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-%23FF9900.svg?style=for-the-badge&logo=amazoneks&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 ### DevOps & Automation
@@ -42,9 +42,9 @@ A results-driven engineer specializing in AWS cloud infrastructure, containerize
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazim-mk2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebykazim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-mk2&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebykazim&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
 
 ---
